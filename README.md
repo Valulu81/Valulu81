@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Valulu81/Valulu81/output/snake.svg" alt="Snake animation" />
+
 
 ###
